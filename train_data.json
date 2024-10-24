@@ -1,0 +1,5002 @@
+[
+    {
+        "prompt": "Wow... Loved this place.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Crust is not good.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Not tasty and the texture was just nasty.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Stopped by during the late May bank holiday off Rick Steve recommendation and loved it.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The selection on the menu was great and so were the prices.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Now I am getting angry and I want my damn pho.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Honeslty it didn't taste THAT fresh.)",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The potatoes were like rubber and you could tell they had been made up ahead of time being kept under a warmer.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The fries were great too.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "A great touch.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Service was very prompt.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Would not go back.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The cashier had no care what so ever on what I had to say it still ended up being wayyy overpriced.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I tried the Cape Cod ravoli, chicken, with cranberry...mmmm!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I was disgusted because I was pretty sure that was human hair.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I was shocked because no signs indicate cash only.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Highly recommended.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Waitress was a little slow in service.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "This place is not worth your time, let alone Vegas.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "did not like at all.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The Burrittos Blah!",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The food, amazing.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Service is also cute.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I could care less... The interior is just beautiful.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "So they performed.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "That's right....the red velvet cake.....ohhh this stuff is so good.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "- They never brought a salad we asked for.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "This hole in the wall has great Mexican street tacos, and friendly staff.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Took an hour to get our food only 4 tables in restaurant my food was Luke warm, Our sever was running around like he was totally overwhelmed.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The worst was the salmon sashimi.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Also there are combos like a burger, fries, and beer for 23 which is a decent deal.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "This was like the final blow!",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I found this place by accident and I could not be happier.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "seems like a good quick place to grab a bite of some familiar pub food, but do yourself a favor and look elsewhere.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Overall, I like this place a lot.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The only redeeming quality of the restaurant was that it was very inexpensive.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Ample portions and good prices.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Poor service, the waiter made me feel like I was stupid every time he came to the table.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "My first visit to Hiro was a delight!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Service sucks.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The shrimp tender and moist.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "There is not a deal good enough that would drag me into that establishment again.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Hard to judge whether these sides were good because we were grossed out by the melted styrofoam and didn't want to eat it for fear of getting sick.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "On a positive note, our server was very attentive and provided great service.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Frozen pucks of disgust, with some of the worst people behind the register.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The only thing I did like was the prime rib and dessert section.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "It's too bad the food is so damn generic.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The burger is good beef, cooked just right.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "If you want a sandwich just go to any Firehouse!!!!!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "My side Greek salad with the Greek dressing was so tasty, and the pita and hummus was very refreshing.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "We ordered the duck rare and it was pink and tender on the inside with a nice char on the outside.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "He came running after us when he realized my husband had left his sunglasses on the table.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Their chow mein is so good!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "They have horrible attitudes towards customers, and talk down to each one when customers don't enjoy their food.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The portion was huge!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Loved it...friendly servers, great food, wonderful and imaginative menu.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The Heart Attack Grill in downtown Vegas is an absolutely flat-lined excuse for a restaurant.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Not much seafood and like 5 strings of pasta at the bottom.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The salad had just the right amount of sauce to not over power the scallop, which was perfectly cooked.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The ripped banana was not only ripped, but petrified and tasteless.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "At least think to refill my water before I struggle to wave you over for 10 minutes.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "This place receives stars for their APPETIZERS!!!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The cocktails are all handmade and delicious.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "We'd definitely go back here again.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "We are so glad we found this place.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Great food and service, huge portions and they give a military discount.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Always a great time at Dos Gringos!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Update.....went back for a second time and it was still just as amazing",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "We got the food and apparently they have never heard of salt and the batter on the fish was chewy.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "A great way to finish a great.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The deal included 5 tastings and 2 drinks, and Jeff went above and beyond what we expected.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "- Really, really good rice, all the time.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The service was meh.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "It took over 30 min to get their milkshake, which was nothing more than chocolate milk.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I guess I should have known that this place would suck, because it is inside of the Excalibur, but I didn't use my common sense.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The scallop dish is quite appalling for value as well.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "2 times - Very Bad Customer Service !",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The sweet potato fries were very good and seasoned well.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Today is the second time I've been to their lunch buffet and it was pretty good.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "There is so much good food in Vegas that I feel cheated for wasting an eating opportunity by going to Rice and Company.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Coming here is like experiencing an underwhelming relationship where both parties can't wait for the other person to ask to break up.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "walked in and the place smelled like an old grease trap and only 2 others there eating.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The turkey and roast beef were bland.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "This place has it!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The pan cakes everyone are raving about taste like a sugary disaster tailored to the palate of a six year old.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I love the Pho and the spring rolls oh so yummy you have to try.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The poor batter to meat ratio made the chicken tenders very unsatisfying.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "All I have to say is the food was amazing!!!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Omelets are to die for!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Everything was fresh and delicious!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "In summary, this was a largely disappointing dining experience.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "It's like a really sexy party in your mouth, where you're outrageously flirting with the hottest person at the party.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Never been to Hard Rock Casino before, WILL NEVER EVER STEP FORWARD IN IT AGAIN!",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Best breakfast buffet!!!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "say bye bye to your tip lady!",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "We'll never go again.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Will be back again!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Food arrived quickly!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "It was not good.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "On the up side, their cafe serves really good food.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Our server was fantastic and when he found out the wife loves roasted garlic and bone marrow, he added extra to our meal and another marrow to go!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The only good thing was our waiter, he was very helpful and kept the bloddy mary's coming.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Best Buffet in town, for the price you cannot beat it.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I LOVED their mussels cooked in this wine reduction, the duck was tender, and their potato dishes were delicious.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "This is one of the better buffets that I have been to.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "So we went to Tigerlilly and had a fantastic afternoon!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The food was delicious, our bartender was attentive and personable AND we got a great deal!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The ambience is wonderful and there is music playing.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Will go back next trip out.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Sooooo good!!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "REAL sushi lovers, let's be honest - Yama is not that good.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "At least 40min passed in between us ordering and the food arriving, and it wasn't that busy.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "This is a really fantastic Thai restaurant which is definitely worth a visit.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Nice, spicy and tender.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Good prices.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Check it out.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "It was pretty gross!",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I've had better atmosphere.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Kind of hard to mess up a steak but they did.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Although I very much liked the look and sound of this place, the actual experience was a bit disappointing.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I just don't know how this place managed to served the blandest food I have ever eaten when they are preparing Indian cuisine.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Worst service to boot, but that is the least of their worries.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Service was fine and the waitress was friendly.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The guys all had steaks, and our steak loving son who has had steak at the best and worst places said it was the best steak he's ever eaten.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "We thought you'd have to venture further away to get good sushi, but this place really hit the spot that night.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Host staff were, for lack of a better word, BITCHES!",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Bland... Not a liking this place for a number of reasons and I don't want to waste time on bad reviewing.. I'll leave it at that...",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Phenomenal food, service and ambiance.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I wouldn't return.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Definitely worth venturing off the strip for the pork belly, will return next time I'm in Vegas.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "This place is way too overpriced for mediocre food.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Penne vodka excellent!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "They have a good selection of food including a massive meatloaf sandwich, a crispy chicken wrap, a delish tuna melt and some tasty burgers.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The management is rude.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Delicious NYC bagels, good selections of cream cheese, real Lox with capers even.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Great Subway, in fact it's so good when you come here every other Subway will not meet your expectations.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I had a seriously solid breakfast here.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "This is one of the best bars with food in Vegas.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "He was extremely rude and really, there are so many other restaurants I would love to dine at during a weekend in Vegas.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "My drink was never empty and he made some really great menu suggestions.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Don't do it!!!!",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The waiter wasn't helpful or friendly and rarely checked on us.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "My husband and I ate lunch here and were very disappointed with the food and service.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "And the red curry had so much bamboo shoots and wasn't very tasty to me.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Nice blanket of moz over top but i feel like this was done to cover up the subpar food.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The bathrooms are clean and the place itself is well decorated.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The menu is always changing, food quality is going down & service is extremely slow.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The service was a little slow , considering that were served by 3 people servers so the food was coming in a slow pace.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I give it 2 thumbs down",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "We watched our waiter pay a lot more attention to other tables and ignore us.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "My fianc\u00e9 and I came in the middle of the day and we were greeted and seated right away.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "This is a great restaurant at the Mandalay Bay.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "We waited for forty five minutes in vain.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Crostini that came with the salad was stale.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Some highlights : Great quality nigiri here!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "the staff is friendly and the joint is always clean.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "this was a different cut than the piece the other day but still wonderful and tender s well as well flavored.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I ordered the Voodoo pasta and it was the first time I'd had really excellent pasta since going gluten free several years ago.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "this place is good.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Unfortunately, we must have hit the bakery on leftover day because everything we ordered was STALE.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I came back today since they relocated and still not impressed.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I was seated immediately.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Their menu is diverse, and reasonably priced.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Avoid at all cost!",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Restaurant is always full but never a wait.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "DELICIOUS!!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "This place is hands-down one of the best places to eat in the Phoenix metro area.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "So don't go there if you are looking for good food...",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I've never been treated so bad.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Bacon is hella salty.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "We also ordered the spinach and avocado salad, the ingredients were sad and the dressing literally had zero taste.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "This really is how Vegas fine dining used to be, right down to the menus handed to the ladies that have no prices listed.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The waitresses are very friendly.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Lordy, the Khao Soi is a dish that is not to be missed for curry lovers!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Everything on the menu is terrific and we were also thrilled that they made amazing accommodations for our vegetarian daughter.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Perhaps I caught them on an off night judging by the other reviews, but I'm not inspired to go back.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The service here leaves a lot to be desired.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The atmosphere is modern and hip, while maintaining a touch of coziness.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Not a weekly haunt, but definitely a place to come back to every once in a while.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "We literally sat there for 20 minutes with no one asking to take our order.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The burger had absolutely no flavor - the meat itself was totally bland, the burger was overcooked and there was no charcoal flavor.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I also decided not to send it back because our waitress looked like she was on the verge of having a heart attack.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I dressed up to be treated so rudely!",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "It was probably dirt.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Love this place, hits the spot when I want something healthy but not lacking in quantity or flavor.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I ordered the Lemon raspberry ice cocktail which was also incredible.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The food sucked, which we expected but it sucked more than we could have imagined.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Interesting decor.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "What I really like there is the crepe station.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Also were served hot bread and butter, and home made potato chips with bacon bits on top....very original and very good.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "you can watch them preparing the delicious food!)",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Both of the egg rolls were fantastic.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "When my order arrived, one of the gyros was missing.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I had a salad with the wings, and some ice cream for dessert and left feeling quite satisfied.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I'm not really sure how Joey's was voted best hot dog in the Valley by readers of Phoenix Magazine.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The best place to go for a tasty bowl of Pho!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The live music on Fridays totally blows.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I've never been more insulted or felt disrespected.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Very friendly staff.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "It is worth the drive.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I had heard good things about this place, but it exceeding every hope I could have dreamed of.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Food was great and so was the serivce!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The warm beer didn't help.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Great brunch spot.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Service is friendly and inviting.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Very good lunch spot.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I've lived here since 1979 and this was the first (and last) time I've stepped foot into this place.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The WORST EXPERIENCE EVER.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Must have been an off night at this place.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The sides are delish - mixed mushrooms, yukon gold puree, white corn - beateous.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "If that bug never showed up I would have given a 4 for sure, but on the other side of the wall where this bug was climbing was the kitchen.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "For about 10 minutes, we we're waiting for her salad when we realized that it wasn't coming any time soon.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "My friend loved the salmon tartar.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Won't go back.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Extremely Tasty!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Waitress was good though!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Soggy and not good.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The Jamaican mojitos are delicious.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Which are small and not worth the price.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "- the food is rich so order accordingly.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The shower area is outside so you can only rinse, not take a full shower, unless you don't mind being nude for everyone to see!",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The service was a bit lacking.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Lobster Bisque, Bussell Sprouts, Risotto, Filet ALL needed salt and pepper..and of course there is none at the tables.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Hopefully this bodes for them going out of business and someone who can cook can come in.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "It was either too cold, not enough flavor or just bad.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I loved the bacon wrapped dates.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "This is an unbelievable BARGAIN!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The folks at Otto always make us feel so welcome and special.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "As for the \"mains,\" also uninspired.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "This is the place where I first had pho and it was amazing!!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "This wonderful experience made this place a must-stop whenever we are in town again.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "If the food isn't bad enough for you, then enjoy dealing with the world's worst/annoying drunk people.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Very very fun chef.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Ordered a double cheeseburger & got a single patty that was falling apart (picture uploaded) Yeah, still sucks.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Great place to have a couple drinks and watch any and all sporting events as the walls are covered with TV's.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "If it were possible to give them zero stars, they'd have it.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The descriptions said \"yum yum sauce\" and another said \"eel sauce\", yet another said \"spicy mayo\"...well NONE of the rolls had sauces on them.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I'd say that would be the hardest decision... Honestly, all of M's dishes taste how they are supposed to taste (amazing).",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "If she had not rolled the eyes we may have stayed... Not sure if we will go back and try it again.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Everyone is very attentive, providing excellent customer service.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Horrible - don't waste your time and money.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Now this dish was quite flavourful.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "By this time our side of the restaurant was almost empty so there was no excuse.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "(It wasn't busy either) Also, the building was FREEZING cold.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "like the other reviewer said \"you couldn't pay me to eat at this place again.\"",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "-Drinks took close to 30 minutes to come out at one point.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Seriously flavorful delights, folks.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Much better than the other AYCE sushi place I went to in Vegas.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The lighting is just dark enough to set the mood.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Based on the sub-par service I received and no effort to show their gratitude for my business I won't be going back.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Owner's are really great people.!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "There is nothing privileged about working/eating there.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The Greek dressing was very creamy and flavorful.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Overall, I don't think that I would take my parents to this place again because they made most of the similar complaints that I silently felt too.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Now the pizza itself was good the peanut sauce was very tasty.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "We had 7 at our table and the service was pretty fast.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Fantastic service here.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I as well would've given godfathers zero stars if possible.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "They know how to make them here.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "very tough and very short on flavor!",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I hope this place sticks around.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I have been in more than a few bars in Vegas, and do not ever recall being charged for tap water.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The restaurant atmosphere was exquisite.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Good service, very clean, and inexpensive, to boot!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The seafood was fresh and generous in portion.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Plus, it's only 8 bucks.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The service was not up to par, either.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Thus far, have only visited twice and the food was absolutely delicious each time.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Just as good as when I had it more than a year ago!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "For a self proclaimed coffee cafe, I was wildly disappointed.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The Veggitarian platter is out of this world!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "You cant go wrong with any of the food here.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "You can't beat that.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Stopped by this place while in Madison for the Ironman, very friendly, kind staff.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The chefs were friendly and did a good job.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I've had better, not only from dedicated boba tea spots, but even from Jenni Pho.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I liked the patio and the service was outstanding.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The goat taco didn't skimp on the meat and wow what FLAVOR!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I think not again",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I had the mac salad and it was pretty bland so I will not be getting that again.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I went to Bachi Burger on a friend's recommendation and was not disappointed.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Service stinks here!",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I waited and waited.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "This place is not quality sushi, it is not a quality restaurant.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I would definitely recommend the wings as well as the pizza.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Great Pizza and Salads!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Things that went wrong: - They burned the saganaki.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "We waited an hour for what was a breakfast I could have done 100 times better at home.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "This place is amazing!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I hate to disagree with my fellow Yelpers, but my husband and I were so disappointed with this place.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Waited 2 hours & never got either of our pizzas as many other around us who came in later did!",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Just don't know why they were so slow.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The staff is great, the food is delish, and they have an incredible beer selection.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I live in the neighborhood so I am disappointed I won't be back here, because it is a convenient location.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I didn't know pulled pork could be soooo delicious.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "You get incredibly fresh fish, prepared with care.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Before I go in to why I gave a 1 star rating please know that this was my third time eating at Bachi burger before writing a review.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I love the fact that everything on their menu is worth it.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Never again will I be dining at this place!",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The food was excellent and service was very good.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Good beer & drink selection and good food selection.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Please stay away from the shrimp stir fried noodles.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The potato chip order was sad... I could probably count how many chips were in that box and it was probably around 12.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Food was really boring.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Good Service-check!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "This greedy corporation will NEVER see another dime from me!",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Will never, ever go back.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "As much as I'd like to go back, I can't get passed the atrocious service and will never return.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "In the summer, you can dine in a charming outdoor patio - so very delightful.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I did not expect this to be so good!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Fantastic food!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "She ordered a toasted English muffin that came out untoasted.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The food was very good.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Never going back.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Great food for the price, which is very high quality and house made.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The bus boy on the other hand was so rude.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "By this point, my friends and I had basically figured out this place was a joke and didn't mind making it publicly and loudly known.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Back to good BBQ, lighter fare, reasonable pricing and tell the public they are back to the old ways.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "And considering the two of us left there very full and happy for about $20, you just can't go wrong.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "All the bread is made in-house!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The only downside is the service.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Also, the fries are without a doubt the worst fries I've ever had.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Service was exceptional and food was a good as all the reviews.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "A couple of months later, I returned and had an amazing meal.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Favorite place in town for shawarrrrrrma!!!!!!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The black eyed peas and sweet potatoes... UNREAL!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "You won't be disappointed.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "They could serve it with just the vinaigrette and it may make for a better overall dish, but it was still very good.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I go to far too many places and I've never seen any restaurant that serves a 1 egg breakfast, especially for $4.00.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "When my mom and I got home she immediately got sick and she only had a few bites of salad.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The servers are not pleasant to deal with and they don't always honor Pizza Hut coupons.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Both of them were truly unbelievably good, and I am so glad we went back.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "We had fantastic service, and were pleased by the atmosphere.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Everything was gross.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I love this place.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Great service and food.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "First - the bathrooms at this location were dirty- Seat covers were not replenished & just plain yucky!!!",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The burger... I got the \"Gold Standard\" a $17 burger and was kind of disappointed.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "OMG, the food was delicioso!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "There is nothing authentic about this place.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "the spaghetti is nothing special whatsoever.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Of all the dishes, the salmon was the best, but all were great.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The vegetables are so fresh and the sauce feels like authentic Thai.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "It's worth driving up from Tucson!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The selection was probably the worst I've seen in Vegas.....there was none.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Pretty good beer selection too.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "This place is like Chipotle, but BETTER.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Classy/warm atmosphere, fun and fresh appetizers, succulent steaks (Baseball steak!!!!!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "5 stars for the brick oven bread app!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I have eaten here multiple times, and each time the food was delicious.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "We sat another ten minutes and finally gave up and left.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "He was terrible!",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Everyone is treated equally special.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "It shouldn't take 30 min for pancakes and eggs.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "It was delicious!!!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "On the good side, the staff was genuinely pleasant and enthusiastic - a real treat.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Sadly, Gordon Ramsey's Steak is a place we shall sharply avoid during our next trip to Vegas.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "As always the evening was wonderful and the food delicious!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Best fish I've ever had in my life!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "(The bathroom is just next door and very nice.)",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The buffet is small and all the food they offered was BLAND.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "This is an Outstanding little restaurant with some of the Best Food I have ever tasted.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Pretty cool I would say.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Definitely a turn off for me & i doubt I'll be back unless someone else is buying.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Server did a great job handling our large rowdy table.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I find wasting food to be despicable, but this just wasn't food.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "My wife had the Lobster Bisque soup which was lukewarm.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Would come back again if I had a sushi craving while in Vegas.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The staff are great, the ambiance is great.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "He deserves 5 stars.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I left with a stomach ache and felt sick the rest of the day.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "They dropped more than the ball.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The dining space is tiny, but elegantly decorated and comfortable.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "They will customize your order any way you'd like, my usual is Eggplant with Green Bean stir fry, love it!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "And the beans and rice were mediocre at best.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Best tacos in town by far!!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I took back my money and got outta there.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "In an interesting part of town, this place is amazing.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "RUDE & INCONSIDERATE MANAGEMENT.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The staff are now not as friendly, the wait times for being served are horrible, no one even says hi for the first 10 minutes.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I won't be back.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "They have great dinners.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The service was outshining & I definitely recommend the Halibut.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The food was terrible.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "WILL NEVER EVER GO BACK AND HAVE TOLD MANY PEOPLE WHAT HAD HAPPENED.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I don't recommend unless your car breaks down in front of it and you are starving.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I will come back here every time I'm in Vegas.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "This place deserves one star and 90% has to do with the food.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "This is a disgrace.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Def coming back to bowl next time",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "If you want healthy authentic or ethic food, try this place.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I will continue to come here on ladies night andddd date night ... highly recommend this place to anyone who is in the area.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I have been here several times in the past, and the experience has always been great.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "We walked away stuffed and happy about our first Vegas buffet experience.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Service was excellent and prices are pretty reasonable considering this is Vegas and located inside the Crystals shopping mall by Aria.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "To summarize... the food was incredible, nay, transcendant... but nothing brings me joy quite like the memory of the pneumatic condiment dispenser.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I'm probably one of the few people to ever go to Ians and not like it.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Kids pizza is always a hit too with lots of great side dish options for the kiddos!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Service is perfect and the family atmosphere is nice to see.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Cooked to perfection and the service was impeccable.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "This one is simply a disappointment.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Overall, I was very disappointed with the quality of food at Bouchon.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I don't have to be an accountant to know I'm getting screwed!",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Great place to eat, reminds me of the little mom and pop shops in the San Francisco Bay Area.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Today was my first taste of a Buldogis Gourmet Hot Dog and I have to tell you it was more than I ever thought possible.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Left very frustrated.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I'll definitely be in soon again.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Food was really good and I got full petty fast.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Service was fantastic.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "TOTAL WASTE OF TIME.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I don't know what kind it is but they have the best iced tea.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Come hungry, leave happy and stuffed!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "For service, I give them no stars.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I can assure you that you won't be disappointed.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I can take a little bad service but the food sucks.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Gave up trying to eat any of the crust (teeth still sore).",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "But now I was completely grossed out.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I really enjoyed eating here.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "First time going but I think I will quickly become a regular.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Our server was very nice, and even though he looked a little overwhelmed with all of our needs, he stayed professional and friendly until the end.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "From what my dinner companions told me...everything was very fresh with nice texture and taste.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "On the ground, right next to our table was a large, smeared, been-stepped-in-and-tracked-everywhere pile of green bird poop.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Furthermore, you can't even find hours of operation on the website!",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "We've tried to like this place but after 10+ times I think we're done with them.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "What a mistake that was!",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "No complaints!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "This is some seriously good pizza and I'm an expert/connisseur on the topic.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Waiter was a jerk.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Strike 2, who wants to be rushed.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "These are the nicest restaurant owners I've ever come across.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I never come again.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "We loved the biscuits!!!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Service is quick and friendly.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Ordered an appetizer and took 40 minutes and then the pizza another 10 minutes.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "So absolutley fantastic.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "It was a huge awkward 1.5lb piece of cow that was 3/4ths gristle and fat.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "definitely will come back here again.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I like Steiners because it's dark and it feels like a bar.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Wow very spicy but delicious.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "If you're not familiar, check it out.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I'll take my business dinner dollars elsewhere.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I'd love to go back.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Anyway, this FS restaurant has a wonderful breakfast/lunch.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Nothing special.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Each day of the week they have a different deal and it's all so delicious!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Not to mention the combination of pears, almonds and bacon is a big winner!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Will not be back.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Sauce was tasteless.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The food is delicious and just spicy enough, so be sure to ask for spicier if you prefer it that way.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "My ribeye steak was cooked perfectly and had great mesquite flavor.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I don't think we'll be going back anytime soon.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Food was so gooodd.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I am far from a sushi connoisseur but I can definitely tell the difference between good food and bad food and this was certainly bad food.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I was so insulted.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The last 3 times I had lunch here has been bad.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The chicken wings contained the driest chicken meat I have ever eaten.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The food was very good and I enjoyed every mouthful, an enjoyable relaxed venue for couples small family groups etc.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Nargile - I think you are great.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Best tater tots in the southwest.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "We loved the place.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Definitely not worth the $3 I paid.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The vanilla ice cream was creamy and smooth while the profiterole (choux) pastry was fresh enough.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Im in AZ all the time and now have my new spot.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The manager was the worst.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The inside is really quite nice and very clean.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The food was outstanding and the prices were very reasonable.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I don't think I'll be running back to Carly's anytime soon for food.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "This is was due to the fact that it took 20 minutes to be acknowledged, then another 35 minutes to get our food...and they kept forgetting things.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Love the margaritas, too!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "This was my first and only Vegas buffet and it did not disappoint.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Very good, though!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The one down note is the ventilation could use some upgrading.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Great pork sandwich.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Don't waste your time here.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Total letdown, I would much rather just go to the Camelback Flower Shop and Cartel Coffee.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Third, the cheese on my friend's burger was cold.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "We enjoy their pizza and brunch.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The steaks are all well trimmed and also perfectly cooked.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "We had a group of 70+ when we claimed we would only have 40 and they handled us beautifully.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I LOVED it!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "We asked for the bill to leave without eating and they didn't bring that either.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "This place is a jewel in Las Vegas, and exactly what I've been hoping to find in nearly ten years living here.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Seafood was limited to boiled shrimp and crab legs but the crab legs definitely did not taste fresh.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The selection of food was not the best.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Delicious and I will absolutely be back!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "This isn't a small family restaurant, this is a fine dining establishment.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "They had a toro tartare with a cavier that was extraordinary and I liked the thinly sliced wagyu with white truffle.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I dont think I will be back for a very long time.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "It was attached to a gas station, and that is rarely a good sign.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "How awesome is that.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I will be back many times soon.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The menu had so much good stuff on it i could not decide!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Worse of all, he humiliated his worker right in front of me..Bunch of horrible name callings.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "CONCLUSION: Very filling meals.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Their daily specials are always a hit with my group.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "And then tragedy struck.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The pancake was also really good and pretty large at that.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "This was my first crawfish experience, and it was delicious!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Their monster chicken fried steak and eggs is my all time favorite.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Waitress was sweet and funny.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I also had to taste my Mom's multi-grain pumpkin pancakes with pecan butter and they were amazing, fluffy, and delicious!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I'd rather eat airline food, seriously.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Cant say enough good things about this place.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The ambiance was incredible.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The waitress and manager are so friendly.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I would not recommend this place.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Overall I wasn't very impressed with Noca.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "My gyro was basically lettuce only.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Terrible service!",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Thoroughly disappointed!",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I don't each much pasta, but I love the homemade /hand made pastas and thin pizzas here.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Give it a try, you will be happy you did.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "By far the BEST cheesecurds we have ever had!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Reasonably priced also!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Everything was perfect the night we were in.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The food is very good for your typical bar food.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "it was a drive to get there.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "At first glance it is a lovely bakery cafe - nice ambiance, clean, friendly staff.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Anyway, I do not think i will go back there.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Point your finger at any item on the menu, order it and you won't be disappointed.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Oh this is such a thing of beauty, this restaurant.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "If you haven't gone here GO NOW!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "A greasy, unhealthy meal.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "first time there and might just be the last.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Those burgers were amazing.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Similarly, the delivery man did not say a word of apology when our food was 45 minutes late.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "And it was way to expensive.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Be sure to order dessert, even if you need to pack it to-go - the tiramisu and cannoli are both to die for.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "This was my first time and I can't wait until the next.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The bartender was also nice.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Everything was good and tasty!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "This place is two thumbs up....way up.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The best place in Vegas for breakfast (just check out a Sat, or Sun.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "If you love authentic Mexican food and want a whole bunch of interesting, yet delicious meats to choose from, you need to try this place.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Terrible management.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "An excellent new restaurant by an experienced Frenchman.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "If there were zero stars I would give it zero stars.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Great steak, great sides, great wine, amazing desserts.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Worst martini ever!",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The steak and the shrimp are in my opinion the best entrees at GC.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I had the opportunity today to sample your amazing pizzas!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "We waited for thirty minutes to be seated (although there were 8 vacant tables and we were the only folks waiting).",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The yellowtail carpaccio was melt in your mouth fresh.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I won't try going back there even if it's empty.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "No, I'm going to eat the potato that I found some strangers hair in it.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Just spicy enough.. Perfect actually.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Last night was my second time dining here and I was so happy I decided to go back!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "not even a \"hello, we will be right with you.\"",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The desserts were a bit strange.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "My boyfriend and I came here for the first time on a recent trip to Vegas and could not have been more pleased with the quality of food and service.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I really do recommend this place, you can go wrong with this donut place!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Nice ambiance.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I would recommend saving room for this!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I guess maybe we went on an off night but it was disgraceful.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "However, my recent experience at this particular location was not so good.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I know this is not like the other restaurants at all, something is very off here!",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "AVOID THIS ESTABLISHMENT!",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I think this restaurant suffers from not trying hard enough.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "All of the tapas dishes were delicious!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I *heart* this place.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "My salad had a bland vinegrette on the baby greens and hearts of Palm.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "After two I felt disgusting.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "A good time!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I believe that this place is a great stop for those with a huge belly and hankering for sushi.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Generous portions and great taste.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I will never go back to this place and will never ever recommended this place to anyone!",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The servers went back and forth several times, not even so much as an \"Are you being helped?\"",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Food was delicious!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "AN HOUR... seriously?",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I consider this theft.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Eew... This location needs a complete overhaul.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "We recently witnessed her poor quality of management towards other guests as well.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Waited and waited and waited.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "He also came back to check on us regularly, excellent service.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Our server was super nice and checked on us many times.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The pizza tasted old, super chewy in not a good way.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I swung in to give them a try but was deeply disappointed.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Service was good and the company was better!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The staff are also very friendly and efficient.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "As for the service: I'm a fan, because it's quick and you're being served by some nice folks.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Boy was that sucker dry!!.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Over rated.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "If you look for authentic Thai food, go else where.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Their steaks are 100% recommended!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "After I pulled up my car I waited for another 15 minutes before being acknowledged.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Great food and great service in a clean and friendly setting.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "All in all, I can assure you I'll be back.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I hate those things as much as cheap quality black olives.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "My breakfast was perpared great, with a beautiful presentation of 3 giant slices of Toast, lightly dusted with powdered sugar.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The kids play area is NASTY!",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Great place fo take out or eat in.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The waitress was friendly and happy to accomodate for vegan/veggie options.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "OMG I felt like I had never eaten Thai food until this dish.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "It was extremely \"crumby\" and pretty tasteless.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "It was a pale color instead of nice and char and has NO flavor.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The croutons also taste homemade which is an extra plus.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I got home to see the driest damn wings ever!",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "It'll be a regular stop on my trips to Phoenix!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I really enjoyed Crema Caf\u00e9 before they expanded. I even told friends they had the BEST breakfast.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Not good for the money.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I miss it and wish they had one in Philadelphia!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "We got sitting fairly fast, but, ended up waiting 40 minutes just to place our order, another 30 minutes before the food arrived.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "They also have the best cheese crisp in town.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Good value, great food, great service.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Couldn't ask for a more satisfying meal.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The food is good.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "It was awesome.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I just wanted to leave.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "We made the drive all the way from North Scottsdale... and I was not one bit disappointed!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I will not be eating there again.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "!....THE OWNERS REALLY REALLY need to quit being soooooo cheap let them wrap my freaking sandwich in two papers not one!",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I checked out this place a couple years ago and was not impressed.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The chicken I got was definitely reheated and was only ok, the wedges were cold and soggy.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Sorry, I will not be getting food from here anytime soon :(",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "An absolute must visit!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The cow tongue and cheek tacos are amazing.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "My friend did not like his Bloody Mary.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Despite how hard I rate businesses, its actually rare for me to give a 1 star.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "They really want to make your experience a good one.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I will not return.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I had the chicken Pho and it tasted very bland.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Very disappointing!!!",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The grilled chicken was so tender and yellow from the saffron seasoning.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "a drive thru means you do not want to wait around for half an hour for your food, but somehow when we end up going here they make us wait and wait.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Pretty awesome place.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Ambience is perfect.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Best of luck to the rude and non-customer service focused new management.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Any grandmother can make a roasted chicken better than this one.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I asked multiple times for the wine list and after some time of being ignored I went to the hostess and got one myself.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The staff is always super friendly and helpful, which is especially cool when you bring two small boys and a baby!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Four stars for the food & the guy in the blue shirt for his great vibe & still letting us in to eat !",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The roast beef sandwich tasted really good!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Same evening, him and I are both drastically sick.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "High-quality chicken on the chicken Caesar salad.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Ordered burger rare came in we'll done.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "We were promptly greeted and seated.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Tried to go here for lunch and it was a madhouse.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I was proven dead wrong by this sushi bar, not only because the quality is great, but the service is fast and the food, impeccable.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "After waiting an hour and being seated, I was not in the greatest of moods.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "This is a good joint.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The Macarons here are insanely good.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I'm not eating here!",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Our waiter was very attentive, friendly, and informative.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Maybe if they weren't cold they would have been somewhat edible.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "This place has a lot of promise but fails to deliver.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Very bad Experience!",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "What a mistake.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Food was average at best.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Great food.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "We won't be going back anytime soon!",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Very Very Disappointed ordered the $35 Big Bay Plater.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Great place to relax and have an awesome burger and beer.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "It is PERFECT for a sit-down family meal or get together with a few friends.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Not much flavor to them, and very poorly constructed.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The patio seating was very comfortable.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The fried rice was dry as well.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Hands down my favorite Italian restaurant!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "That just SCREAMS \"LEGIT\" in my book...somethat's also pretty rare here in Vegas.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "It was just not a fun experience.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The atmosphere was great with a lovely duo of violinists playing songs we requested.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I personally love the hummus, pita, baklava, falafels and Baba Ganoush (it's amazing what they do with eggplant!).",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Very convenient, since we were staying at the MGM!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The owners are super friendly and the staff is courteous.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Both great!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Eclectic selection.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The sweet potato tots were good but the onion rings were perfection or as close as I have had.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The staff was very attentive.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "And the chef was generous with his time (even came around twice so we can take pictures with him).",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The owner used to work at Nobu, so this place is really similar for half the price.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Google mediocre and I imagine Smashburger will pop up.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "dont go here.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I promise they won't disappoint.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "As a sushi lover avoid this place by all means.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "What a great double cheeseburger!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Awesome service and food.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "A fantastic neighborhood gem !!!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I can't wait to go back.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The plantains were the worst I've ever tasted.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "It's a great place and I highly recommend it.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Service was slow and not attentive.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I gave it 5 stars then, and I'm giving it 5 stars now.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Your staff spends more time talking to themselves than me.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Dessert: Panna Cotta was amazing.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Very good food, great atmosphere.1",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Damn good steak.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Total brunch fail.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Prices are very reasonable, flavors are spot on, the sauce is home made, and the slaw is not drenched in mayo.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The decor is nice, and the piano music soundtrack is pleasant.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The steak was amazing...rge fillet relleno was the best seafood plate i have ever had!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Good food , good service .",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "It was absolutely amazing.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I probably won't be back, to be honest.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "will definitely be back!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The sergeant pepper beef sandwich with auju sauce is an excellent sandwich as well.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Hawaiian Breeze, Mango Magic, and Pineapple Delight are the smoothies that I've tried so far and they're all good.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Went for lunch - service was slow.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "We had so much to say about the place before we walked in that he expected it to be amazing, but was quickly disappointed.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I was mortified.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Needless to say, we will never be back here again.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Anyways, The food was definitely not filling at all, and for the price you pay you should expect more.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The chips that came out were dripping with grease, and mostly not edible.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I wasn't really impressed with Strip Steak.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Have been going since 2007 and every meal has been awesome!!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Our server was very nice and attentive as were the other serving staff.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The cashier was friendly and even brought the food out to me.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I work in the hospitality industry in Paradise Valley and have refrained from recommending Cibo any longer.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The atmosphere here is fun.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Would not recommend to others.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Service is quick and even \"to go\" orders are just like we like it!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I mean really, how do you get so famous for your fish and chips when it's so terrible!?!",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "That said, our mouths and bellies were still quite pleased.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Not my thing.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "2 Thumbs Up!!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "If you are reading this please don't go there.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I loved the grilled pizza, reminded me of legit Italian pizza.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Only Pros : Large seating area/ Nice bar area/ Great simple drink menu/ The BEST brick oven pizza with homemade dough!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "They have a really nice atmosphere.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Tonight I had the Elk Filet special...and it sucked.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "After one bite, I was hooked.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "We ordered some old classics and some new dishes after going there a few times and were sorely disappointed with everything.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Cute, quaint, simple, honest.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The chicken was deliciously seasoned and had the perfect fry on the outside and moist chicken on the inside.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The food was great as always, compliments to the chef.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Special thanks to Dylan T. for the recommendation on what to order :) All yummy for my tummy.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Awesome selection of beer.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Great food and awesome service!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "One nice thing was that they added gratuity on the bill since our party was larger than 6 or 8, and they didn't expect more tip than that.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "A FLY was in my apple juice.. A FLY!!!!!!!!",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The Han Nan Chicken was also very tasty.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "As for the service, I thought it was good.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The food was barely lukewarm, so it must have been sitting waiting for the server to bring it out to us.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Ryan's Bar is definitely one Edinburgh establishment I won't be revisiting.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Nicest Chinese restaurant I've been in a while.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Overall, I like there food and the service.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "They also now serve Indian naan bread with hummus and some spicy pine nut sauce that was out of this world.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Probably never coming back, and wouldn't recommend it.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Friend's pasta -- also bad, he barely touched it.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Try them in the airport to experience some tasty food and speedy, friendly service.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I love the decor with the Chinese calligraphy wall paper.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Never had anything to complain about here.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The restaurant is very clean and has a family restaurant feel to it.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "It was way over fried.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I'm not sure how long we stood there but it was long enough for me to begin to feel awkwardly out of place.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "When I opened the sandwich, I was impressed, but not in a good way.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Will not be back!",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "There was a warm feeling with the service and I felt like their guest for a special treat.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "An extensive menu provides lots of options for breakfast.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I always order from the vegetarian menu during dinner, which has a wide array of options to choose from.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I have watched their prices inflate, portions get smaller and management attitudes grow rapidly!",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Wonderful lil tapas and the ambience made me feel all warm and fuzzy inside.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I got to enjoy the seafood salad, with a fabulous vinegrette.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The wontons were thin, not thick and chewy, almost melt in your mouth.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Level 5 spicy was perfect, where spice didn't over-whelm the soup.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "We were sat right on time and our server from the get go was FANTASTIC!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Main thing I didn't enjoy is that the crowd is of older crowd, around mid 30s and up.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "When I'm on this side of town, this will definitely be a spot I'll hit up again!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I had to wait over 30 minutes to get my drink and longer to get 2 arepas.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "This is a GREAT place to eat!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The jalapeno bacon is soooo good.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The service was poor and thats being nice.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Food was good, service was good, Prices were good.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The place was not clean and the food oh so stale!",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The chicken dishes are OK, the beef is like shoe leather.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "But the service was beyond bad.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I'm so happy to be here!!!\"",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Tasted like dirt.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "One of the few places in Phoenix that I would definately go back to again .",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The block was amazing.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "It's close to my house, it's low-key, non-fancy, affordable prices, good food.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "* Both the Hot & Sour & the Egg Flower Soups were absolutely 5 Stars!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "My sashimi was poor quality being soggy and tasteless.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Great time - family dinner on a Sunday night.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "the food is not tasty at all, not to say its \"real traditional Hunan style\".",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "What did bother me, was the slow service.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The flair bartenders are absolutely amazing!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Their frozen margaritas are WAY too sugary for my taste.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "These were so good we ordered them twice.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "So in a nutshell: 1) The restaraunt smells like a combination of a dirty fish market and a sewer.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "My girlfriend's veal was very bad.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Unfortunately, it was not good.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I had a pretty satifying experience.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Join the club and get awesome offers via email.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Perfect for someone (me) who only likes beer ice cold, or in this case, even colder.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Bland and flavorless is a good way of describing the barely tepid meat.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The chains, which I'm no fan of, beat this place easily.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The nachos are a MUST HAVE!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "We will not be coming back.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I don't have very many words to say about this place, but it does everything pretty well.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The staff is super nice and very quick even with the crazy crowds of the downtown juries, lawyers, and court staff.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Great atmosphere, friendly and fast service.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "When I received my Pita it was huge it did have a lot of meat in it so thumbs up there.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Once your food arrives it's meh.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Paying $7.85 for a hot dog and fries that looks like it came out of a kid's meal at the Wienerschnitzel is not my idea of a good meal.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The classic Maine Lobster Roll was fantastic.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "My brother in law who works at the mall ate here same day, and guess what he was sick all night too.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "So good I am going to have to review this place twice - once hereas a tribute to the place and once as a tribute to an event held here last night.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The chips and salsa were really good, the salsa was very fresh.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "This place is great!!!!!!!!!!!!!!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Mediocre food.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Once you get inside you'll be impressed with the place.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I'm super pissd.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "And service was super friendly.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Why are these sad little vegetables so overcooked?",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "This place was such a nice surprise!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "They were golden-crispy and delicious.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I had high hopes for this place since the burgers are cooked over a charcoal grill, but unfortunately the taste fell flat, way flat.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I could eat their bruschetta all day it is devine.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Not a single employee came out to see if we were OK or even needed a water refill once they finally served us our food.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Lastly, the mozzarella sticks, they were the best thing we ordered.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The first time I ever came here I had an amazing experience, I still tell people how awesome the duck was.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The server was very negligent of our needs and made us feel very unwelcome... I would not suggest this place!",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The service was terrible though.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "This place is overpriced, not consistent with their boba, and it really is OVERPRICED!",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "It was packed!!",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I love this place.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I can say that the desserts were yummy.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The food was terrible.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The seasonal fruit was fresh white peach puree.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "It kept getting worse and worse so now I'm officially done.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "This place should honestly be blown up.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "But I definitely would not eat here again.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Do not waste your money here!",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I love that they put their food in nice plastic containers as opposed to cramming it in little paper takeout boxes.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The cr\u00eape was delicate and thin and moist.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Awful service.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Won't ever go here again.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Food quality has been horrible.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "For that price I can think of a few place I would have much rather gone.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The service here is fair at best.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I do love sushi, but I found Kabuki to be over-priced, over-hip and under-services.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Do yourself a favor and stay away from this dish.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Very poor service.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "No one at the table thought the food was above average or worth the wait that we had for it.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Best service and food ever, Maria our server was so good and friendly she made our day.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "They were excellent.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I paid the bill but did not tip because I felt the server did a terrible job.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Just had lunch here and had a great experience.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I have never had such bland food which surprised me considering the article we read focused so much on their spices and flavor.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Food is way overpriced and portions are fucking small.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I recently tried Caballero's and I have been back every week since!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "for 40 bucks a head, i really expect better food.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The food came out at a good pace.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I ate there twice on my last visit, and especially enjoyed the salmon salad.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I won't be back.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "We could not believe how dirty the oysters were!",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "This place deserves no stars.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I would not recommend this place.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "In fact I'm going to round up to 4 stars, just because she was so awesome.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "To my disbelief, each dish qualified as the worst version of these foods I have ever tasted.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Bad day or not, I have a very low tolerance for rude customer service people, it is your job to be nice and polite, wash dishes otherwise!!",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "the potatoes were great and so was the biscuit.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I probably would not go here again.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "So flavorful and has just the perfect amount of heat.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The price is reasonable and the service is great.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The Wife hated her meal (coconut shrimp), and our friends really did not enjoy their meals, either.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "My fella got the huevos rancheros and they didn't look too appealing.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Went in for happy hour, great list of wines.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Some may say this buffet is pricey but I think you get what you pay for and this place you are getting quite a lot!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I probably won't be coming back here.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Worst food/service I've had in a while.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "This place is pretty good, nice little vibe in the restaurant.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Talk about great customer service of course we will be back.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Hot dishes are not hot, cold dishes are close to room temp.I watched staff prepare food with BARE HANDS, no gloves.Everything is deep fried in oil.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I love their fries and their beans.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Always a pleasure dealing with him.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "They have a plethora of salads and sandwiches, and everything I've tried gets my seal of approval.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "This place is awesome if you want something light and healthy during the summer.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "For sushi on the Strip, this is the place to go.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The service was great, even the manager came and helped with our table.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The feel of the dining room was more college cooking course than high class dining and the service was slow at best.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I started this review with two stars, but I'm editing it to give it only one.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "this is the worst sushi i have ever eat besides Costco's.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "All in all an excellent restaurant highlighted by great service, a unique menu, and a beautiful setting.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "My boyfriend and i sat at the bar and had a completely delightful experience.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Weird vibe from owners.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "There was hardly any meat.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I've had better bagels from the grocery store.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Go To Place for Gyros.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I love the owner/chef, his one authentic Japanese cool dude!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Now the burgers aren't as good, the pizza which used to be amazing is doughy and flavorless.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I found a six inch long piece of wire in my salsa.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The service was terrible, food was mediocre.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "We definately enjoyed ourselves.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I ordered Albondigas soup - which was just warm - and tasted like tomato soup with frozen meatballs.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "On three different occasions I asked for well done or medium well, and all three times I got the bloodiest piece of meat on my plate.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I had about two bites and refused to eat anymore.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The service was extremely slow.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "After 20 minutes wait, I got a table.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Seriously killer hot chai latte.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "No allergy warnings on the menu, and the waitress had absolutely no clue as to which meals did or did not contain peanuts.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "My boyfriend tried the Mediterranean Chicken Salad and fell in love.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Their rotating beers on tap is also a highlight of this place.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Pricing is a bit of a concern at Mellow Mushroom.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Worst Thai ever.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "If you stay in Vegas you must get breakfast here at least once.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I want to first say our server was great and we had perfect service.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The pizza selections are good.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I had strawberry tea, which was good.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Highly unprofessional and rude to a loyal patron!",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Overall, a great experience.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "Spend your money elsewhere.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Their regular toasted bread was equally satisfying with the occasional pats of butter... Mmmm...!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The Buffet at Bellagio was far from what I anticipated.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "And the drinks are WEAK, people!",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "-My order was not correct.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Also, I feel like the chips are bought, not made in house.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "After the disappointing dinner we went elsewhere for dessert.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The chips and sals a here is amazing!!!!!!!!!!!!!!!!!!!",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "We won't be returning.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "This is my new fav Vegas buffet spot.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "I seriously cannot believe that the owner has so many unexperienced employees that all are running around like chickens with their heads cut off.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Very, very sad.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "i felt insulted and disrespected, how could you talk and judge another human being like that?",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "How can you call yourself a steakhouse if you can't properly cook a steak, I don't understand!",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I'm not impressed with the concept or the food.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The only thing I wasn't too crazy about was their guacamole as I don't like it pur\u00e9ed.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "There is really nothing for me at postinos, hope your experience is better",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I got food poisoning here at the buffet.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "They brought a fresh batch of fries and I was thinking yay something warm but no!",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "What SHOULD have been a hilarious, yummy Christmas Eve dinner to remember was the biggest fail of the entire trip for us.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Needless to say, I won't be going back anytime soon.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "This place is disgusting!",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Every time I eat here, I see caring teamwork to a professional degree.",
+        "completion": "1",
+        "label": true
+    },
+    {
+        "prompt": "The RI style calamari was a joke.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "However, there was so much garlic in the fondue, it was barely edible.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I could barely stomach the meal, but didn't complain because it was a business lunch.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "It was so bad, I had lost the heart to finish it.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "It also took her forever to bring us the check when we asked for it.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "We aren't ones to make a scene at restaurants but I just don't get it...definitely lost the love after this one!",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Disappointing experience.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The food is about on par with Denny's, which is to say, not good at all.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "If you want to wait for mediocre food and downright terrible service, then this is the place for you.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "WAAAAAAyyyyyyyyyy over rated is all I am saying.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "We won't be going back.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The place was fairly clean but the food simply wasn't worth it.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "This place lacked style!!",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The sangria was about half of a glass wine full and was $12, ridiculous.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Don't bother coming here.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The meat was pretty dry, I had the sliced brisket and pulled pork.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The building itself seems pretty neat, the bathroom is pretty trippy, but I wouldn't eat here again.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "It was equally awful.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Probably not in a hurry to go back.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "very slow at seating even with reservation.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Not good by any stretch of the imagination.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The cashew cream sauce was bland and the vegetables were undercooked.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The chipolte ranch dipping sause was tasteless, seemed thin and watered down with no heat.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "It was a bit too sweet, not really spicy enough, and lacked flavor.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I was VERY disappointed!!",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "This place is horrible and way overpriced.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Maybe it's just their Vegetarian fare, but I've been twice and I thought it was average at best.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "It wasn't busy at all and now we know why.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The tables outside are also dirty a lot of the time and the workers are not always friendly and helpful with the menu.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The ambiance here did not feel like a buffet setting, but more of a douchey indoor garden for tea and biscuits.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Con: spotty service.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The fries were not hot, and neither was my burger.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "But then they came back cold.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Then our food came out, disappointment ensued.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The real disappointment was our waiter.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "My husband said she was very rude... did not even apologize for the bad food or anything.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The only reason to eat here would be to fill up before a night of binge drinking just to get some carbs in your stomach.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Insults, profound deuchebaggery, and had to go outside for a smoke break while serving just to solidify it.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "If someone orders two tacos don't' you think it may be part of customer service to ask if it is combo or ala cart?",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "She was quite disappointed although some blame needs to be placed at her door.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "After all the rave reviews I couldn't wait to eat here......what a disappointment!",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Del Taco is pretty nasty and should be avoided if possible.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "It's NOT hard to make a decent hamburger.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "But I don't like it.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Hell no will I go back",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "We've have gotten a much better service from the pizza place next door than the services we received from this restaurant.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I don't know what the big deal is about this place, but I won't be back \"ya'all\".",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I immediately said I wanted to talk to the manager but I did not want to talk to the guy who was doing shots of fireball behind the bar.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The ambiance isn't much better.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Unfortunately, it only set us up for disapppointment with our entrees.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The food wasn't good.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Your servers suck, wait, correction, our server Heimer sucked.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "What happened next was pretty....off putting.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "too bad cause I know it's family owned, I really wanted to like this place.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Overpriced for what you are getting.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I vomited in the bathroom mid lunch.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I kept looking at the time and it had soon become 35 minutes, yet still no food.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I have been to very few places to eat that under no circumstances would I ever return to, and this tops the list.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "We started with the tuna sashimi which was brownish in color and obviously wasn't fresh.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Food was below average.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "It sure does beat the nachos at the movies but I would expect a little bit more coming from a restaurant.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "All in all, Ha Long Bay was a bit of a flop.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The problem I have is that they charge $11.99 for a sandwich that is no bigger than a Subway sub (which offers better and more amount of vegetables).",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Shrimp- When I unwrapped it (I live only 1/2 a mile from Brushfire) it was literally ice cold.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "It lacked flavor, seemed undercooked, and dry.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "It really is impressive that the place hasn't closed down.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I would avoid this place if you are staying in the Mirage.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The refried beans that came with my meal were dried out and crusty and the food was bland.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Spend your money and time some place else.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "A lady at the table next to us found a live green caterpillar In her salad.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "the presentation of the food was awful.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I can't tell you how disappointed I was.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "I think food should have flavor and texture and both were lacking.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Appetite instantly gone.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Overall I was not impressed and would not go back.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "The whole experience was underwhelming, and I think we'll just go to Ninja Sushi next time.",
+        "completion": "0",
+        "label": false
+    },
+    {
+        "prompt": "Then, as if I hadn't wasted enough of my life there, they poured salt in the wound by drawing out the time it took to bring the check.",
+        "completion": "0",
+        "label": false
+    }
+]
